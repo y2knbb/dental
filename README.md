@@ -1,2 +1,2 @@
-# dental
+# eDental
 dental application
